@@ -8,7 +8,7 @@
   }
 
   .top-image{
-    width: 100vw;
+    width: 100%;
   }
 
   .logo{
@@ -27,28 +27,28 @@
 
   .copy{
     position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-
-    font-size: 23px;
-    color: white;
-
-    white-space: nowrap
-  }
-
-
-  .description-title{
-    text-align: center;
-    margin: 3% 0;
-
-    font-size: 20px;
-    color: #0099CC;
-  }
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+    width: 90%;
+    }
+  
+    .registration{
+      position: absolute;
+      bottom: 10%;
+      right: 1%;
+      width: 70vw;
+    }
 
   .description{
-    font-size: 15px;
-    text-align: center;
+      text-align: center;
+  }
+
+  .description-image{
+    margin: 3% 0;
+    width: 80vw;
   }
 
 }
