@@ -11,10 +11,11 @@
   <img src="/assets/images/group266.png" class="top-image" >
       <div class="copy">理想の体づくりには、理想のパートナーを</div>
       <img src="/assets/images/group263.png" class="logo" >
+      <img src="/assets/images/group27.png" class="menu-bar" >
 </div>
 
 <div>
-    <div class="description-title">TraSearchとは...?<br></div>
+    <div class="description-title">TraSearchとは...?</div>
     <div class="description">
         TraSearch(トレサーチ)は、自身の悩みに対して<br>
         検索いらずでトレーニングの予約ができるWEBサービスです。<br>
@@ -22,3 +23,5 @@
         その道のプロがあなたにあったプランを提案します。
     </div>
 </div>
+
+

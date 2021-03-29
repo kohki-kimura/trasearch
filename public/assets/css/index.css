@@ -15,7 +15,14 @@
     position: absolute;
     top: 2%;
     left: 2%;
-    width: 18vw;
+    width: 15vw;
+  }
+
+  .menu-bar{
+    position: absolute;
+    top: 4%;
+    right: 2%;
+    width: 8vw;
   }
 
   .copy{
