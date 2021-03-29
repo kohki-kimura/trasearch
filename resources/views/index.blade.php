@@ -8,12 +8,13 @@
 </head>
 
 <div class="top">
-  <img src="/assets/images/group266.png" >
+  <img src="/assets/images/group266.png" class="top-image" >
       <div class="copy">理想の体づくりには、理想のパートナーを</div>
+      <img src="/assets/images/group263.png" class="logo" >
 </div>
 
 <div>
-    <div class="description-title">TraSeatchとは...?<br></div>
+    <div class="description-title">TraSearchとは...?<br></div>
     <div class="description">
         TraSearch(トレサーチ)は、自身の悩みに対して<br>
         検索いらずでトレーニングの予約ができるWEBサービスです。<br>
